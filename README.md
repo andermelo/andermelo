@@ -4,7 +4,7 @@
 
 <p align="center"><samp>Aqui eu compartilho e salvo tudo que amo fazer, seja bem vindo!</samp></p>
 
-<p align="center"><samp>Você também pode se conectar💬 comigo no <a target="_blank" href="https://www.linkedin.com/in/andermelo/">Linkedin</a> ou envie um <a href="mailto:anderson.90@gmail.com" target="_blank">e-mail</a>.</samp>😄</p> 
+<p align="center"><samp>Você também pode se conectar💬 comigo no <a target="_blank" href="https://www.linkedin.com/in/andermelo/">Linkedin</a> ou envie um <a href="mailto:anderson.90@gmail.com">e-mail</a>.</samp>😄</p> 
 
 
 
