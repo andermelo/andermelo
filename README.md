@@ -6,7 +6,7 @@
 
 <p align="center"><samp>Você também pode se conectar💬 comigo no <a target="_blank" href="https://www.linkedin.com/in/andermelo/">Linkedin</a> ou envie um <a href="mailto:anderson.90@gmail.com">e-mail</a>.</samp>😄</p> 
 
-<h2 align="center">Hi there 👋 [EN]</h1> 
+<h2 align="center">[EN]</h1> 
 
 <p align="center"><samp>I'm a mobile and web developer passionate about technology, science fiction, and innovation...</samp> 👽</p>
 <p align="center"><samp>Here I share and save everything I love doing, welcome!</samp></p>
