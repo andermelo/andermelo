@@ -15,15 +15,5 @@
 <br /><hr><br />
 
 
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    title My Technical Skills Distribution
-    "Mobile Flutter [26%]" : 26
-    "Android iOS [24%]" : 24
-    "Golang [15%]" : 15
-    "Kotlin [18%]" : 18
-    "Java [17%]" : 17
-
 
 
